@@ -23,4 +23,4 @@ Kezdőlap elkészítése(közös)
 
 Git használata
 
-Weblap terv elkészítése
+Weblap terv elkészítése XXXXXXXXXXXX
