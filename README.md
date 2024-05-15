@@ -1,14 +1,26 @@
-Kelecz Tibor Nikolasz:                                                                                                            Galambos Milán Dávid:
+Kelecz Tibor Nikolasz: 
 
-Projekt bemutató készítése és előadása                                                                                           Repository létrehozása és megosztása
+Projekt bemutató készítése és előadása 
 
 
-Dokumentáció készítése(Word)                                                                                                     Readme.md fájl elkészítése
+Dokumentáció készítése(Word) 
 
-Kezdőlap elkészítése(közös)                                                                                                      Feladatok szétosztása
+Kezdőlap elkészítése(közös)
 
-A weboldalakon használt CSS fájl(ok) elkészítése                                                                                 Kezdőlap elkészítése(közös)
+A weboldalakon használt CSS fájl(ok) elkészítése                
 
-Utazási ajánlatot tartalmazó oldalak elkészítése                                                                                 Git használata
-
+Utazási ajánlatot tartalmazó oldalak elkészítése
                                                                                                                       
+Galambos Milán Dávid:
+
+Repository létrehozása és megosztása
+
+Readme.md fájl elkészítése
+
+Feladatok szétosztása
+
+Kezdőlap elkészítése(közös)
+
+Git használata
+
+Weblap terv elkészítése
