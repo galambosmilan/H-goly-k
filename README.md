@@ -1,2 +1,5 @@
-# H-goly-k
-.
+Kelecz Tibor Nikolasz
+
+
+
+Galambos Milán Dávid
