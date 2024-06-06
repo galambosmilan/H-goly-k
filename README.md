@@ -13,14 +13,14 @@ Utazási ajánlatot tartalmazó oldalak elkészítése
                                                                                                                       
 Galambos Milán Dávid:
 
-Repository létrehozása és megosztása XXXXXXXXX
+Repository létrehozása és megosztása
 
-Readme.md fájl elkészítése XXXXXXXXXXXXX
+Readme.md fájl elkészítése 
 
-Feladatok szétosztása XXXXXXXXXXXXXXXX
+Feladatok szétosztása 
 
 Kezdőlap elkészítése(közös)
 
 Git használata
 
-Weblap terv elkészítése XXXXXXXXXXXX
+Weblap terv elkészítése 
